@@ -1,0 +1,30 @@
+{
+  "name": "samsung-remote-promise",
+  "version": "1.0.0",
+  "description": "Promise wrapper for Andrei Zharov samsung-remote library (https://github.com/natalan/samsung-remote)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyriis/samsung-remote-promise.git"
+  },
+  "keywords": [
+    "samsung",
+    "smarttv",
+    "remote",
+    "promise",
+    "samsung-remote"
+  ],
+  "author": "Nils Müller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyriis/samsung-remote-promise/issues"
+  },
+  "homepage": "https://github.com/tyriis/samsung-remote-promise#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "samsung-remote": "^1.2.5"
+  }
+}
