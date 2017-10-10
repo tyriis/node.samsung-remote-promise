@@ -32,6 +32,8 @@ remote.isAlive().then(function() {
   console.log(err);
 });
 
+// chain multiple keys
+remote.send(['KEY_VOLUP','KEY_VOLUP', 'KEY_MENU', 'KEY_DOWN'])
 ```
 
 Remote Keys
