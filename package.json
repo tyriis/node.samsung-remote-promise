@@ -1,6 +1,6 @@
 {
   "name": "samsung-remote-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promise wrapper for Andrei Zharov samsung-remote library (https://github.com/natalan/samsung-remote)",
   "main": "index.js",
   "scripts": {
